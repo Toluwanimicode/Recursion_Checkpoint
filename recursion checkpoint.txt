@@ -1,0 +1,7 @@
+Recursion Checkpoint
+
+Step 1: Create a variable to store the palindrome word.
+Step 2: Go through each of the characters in the word.
+Step 3: Compare the first characters to the last characters.
+Step 4: If the first character equals to the last character repeat step 3.
+Step 5: If all the first and last characters are the same return is palindrome else return is not palindrome.
